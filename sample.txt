@@ -1,1 +1,4 @@
 hello learning pull and fork
+
+Process to follow: 
+Fork the repo in GUI --> go to terminal --> clone --> change the directory --> make the changes in the file --> add to the git --> config with the user name or user email to the git account --> commit the changes --> push it to github --> verify the change in the Githhub GUI
