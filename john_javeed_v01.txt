@@ -1,0 +1,1 @@
+This is the Sample Exercise for Fork --> Clone --> adding new file or changes using vi editor --> save and verify the file --> Add the file to git --> config the destination email id --> commit --> Push
